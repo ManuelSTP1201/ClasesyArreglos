@@ -27,12 +27,12 @@ namespace ClasesyArreglos
                     Dias = dias
                 };
                 desayunos.Add(nuevoDesayuno);
-                Console.WriteLine("Desayuno añadido.\n");
+                Console.WriteLine("\nDesayuno añadido.\n");
             }
 
             public void ListarDesayunos()
             {
-                Console.WriteLine($"Se sirven {desayunos.Count} desayunos:");
+                Console.WriteLine($"\nSe sirven {desayunos.Count} desayunos:\n");
                 foreach (var desayuno in desayunos)
                 {
                     Console.WriteLine(desayuno);

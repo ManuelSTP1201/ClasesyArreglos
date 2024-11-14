@@ -21,6 +21,7 @@ namespace ClasesyArreglos
         {
             return Dias.Split(',');
         }
+
     }
 }
 

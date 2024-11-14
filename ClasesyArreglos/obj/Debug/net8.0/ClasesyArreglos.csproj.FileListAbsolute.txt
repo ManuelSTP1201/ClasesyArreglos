@@ -12,3 +12,4 @@ C:\Users\MANUEL\Downloads\INISCO-8568\ClasesyArreglos\ClasesyArreglos\obj\Debug\
 C:\Users\MANUEL\Downloads\INISCO-8568\ClasesyArreglos\ClasesyArreglos\obj\Debug\net8.0\ClasesyArreglos.pdb
 C:\Users\MANUEL\Downloads\INISCO-8568\ClasesyArreglos\ClasesyArreglos\obj\Debug\net8.0\ClasesyArreglos.genruntimeconfig.cache
 C:\Users\MANUEL\Downloads\INISCO-8568\ClasesyArreglos\ClasesyArreglos\obj\Debug\net8.0\ref\ClasesyArreglos.dll
+C:\Users\MANUEL\Downloads\INISCO-8568\ClasesyArreglos\ClasesyArreglos\obj\Debug\net8.0\ClasesyArreglos.sourcelink.json
